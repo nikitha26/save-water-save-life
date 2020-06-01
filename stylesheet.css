@@ -106,4 +106,9 @@ body,html{
         height:500px;
         opacity: 0.7;
     }
+    .seventh{
+        height:200px;
+        background-color:rgb(14,16,21);
+        margin-top: -190px;
+    }
     
